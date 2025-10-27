@@ -1,5 +1,9 @@
 # React + Vite
-
+- React 18
+- Vite
+- Material UI (MUI)
+- JavaScript / TypeScript (optional)
+- ESLint (optional)
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
